@@ -1,3 +1,10 @@
+/*
+3. Write a program which accept number from user and print even factors of that
+number.
+Input : 36
+Output: 2 6 12 18
+*/
+
 #include<stdio.h>
 void DisplayEvenFactor(int iNo)
 {
